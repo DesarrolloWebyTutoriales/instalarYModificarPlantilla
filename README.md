@@ -1,6 +1,8 @@
 # Repositorio de instalar WordPress y modificar plantilla
 
-Dejo el repositorio aqui.
+Guia de como restaurar wordpress + plantilla enigma
+
+https://www.youtube.com/watch?v=vi5vb-B3toM
 
 ! Suscribete a mi canal !
 
